@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">MVPDemo</string>
+	<!-- MainActivity -->
+	<string name="main_title">测试页面</string>
+</resources>
