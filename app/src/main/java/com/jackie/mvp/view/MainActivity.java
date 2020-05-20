@@ -17,7 +17,7 @@ import com.jackie.mvp.util.MyLog;
 
 import java.util.Date;
 
-public class MainActivity extends BaseActivity implements IHistoryView, View.OnClickListener {
+public class MainActivity extends BaseActivity implements IHistoryView {
 	private static final String TAG = "MainActivity";
 
 	private Button testBtn;
